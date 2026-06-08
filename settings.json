@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "schoolsmpalma.aternos.me",
-    "port": 16447,
-    "version": "",
+    "ip": "kaliandi.aternos.me",
+    "port": 51442,
+    "version": "1.21.11,
     "try-creative": false
   },
   "position": {
