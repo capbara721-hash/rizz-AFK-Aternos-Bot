@@ -1,16 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "theultimetbot",
+    "username": "botiskoen",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "schoolsmpalma.aternos.me:16447",
-    "port": 16447
-
-,
-    "version": "",
+    "ip": "schoolsmpalma.aternos.me",
+    "port": 16447,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -34,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "mi bombo",
-        "koen is homo"
+        "koen is een bot",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
