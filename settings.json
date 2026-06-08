@@ -1,13 +1,16 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "rizzbot",
+    "username": "theultimetbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rizzsurver.aternos.me",
-    "port": 56018,
+    "ip": "schoolsmpalma.aternos.me
+",
+    "port": 16447
+
+,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +35,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "mi bombo",
+        "koen is homo"
       ]
     },
     "chat-log": true,
